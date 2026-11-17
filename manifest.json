@@ -1,0 +1,13 @@
+{
+  "display_name": "Desearch",
+  "loading_order": 10,
+  "requires": [],
+  "optional": [],
+  "js": "index.js",
+  "author": "Desearch",
+  "version": "0.1.0",
+  "homePage": "https://github.com/Desearch-ai/SillyTavern-Desearch",
+  "auto_update": false,
+  "minimum_client_version": "1.19.0",
+  "tool": true
+}
